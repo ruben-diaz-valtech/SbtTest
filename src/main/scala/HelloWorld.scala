@@ -1,3 +1,3 @@
 object Main extends App { 
-	Console.println("Hello World!") 
+	rintln("Hello World!") 
 }
